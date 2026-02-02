@@ -9,7 +9,7 @@ import { Link } from "expo-router";
 export default function HomeScreen() {
   return (
     <ParallaxScrollView
-      headerBackgroundColor={{ light: "#1f7aae", dark: "#1D3D47" }}
+      headerBackgroundColor={{ light: "#2490cf", dark: "#1D3D47" }}
       headerImage={
         <Image
           source={require("@/assets/images/partial-react-logo.png")}
